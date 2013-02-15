@@ -1,0 +1,87 @@
+/* Type */
+body{
+	font-size: 11pt;
+	font-family: "Palatino";
+}
+
+.caps {
+	font-size: 85%;
+}
+
+/* Color */
+body{
+	background: #ccc;
+	color: black;
+}
+
+.page{
+	border-color: black;
+	background: #fff;
+}
+
+.section h2 {
+	border-bottom-color: black;
+}
+
+a {
+	color: black;
+}	
+
+	a:hover{
+		color: blue;
+	}
+
+/* Layout */
+.page {
+	width: 45em;
+	border-style: solid;
+	border-width: 1px;
+	margin: 2em auto;
+	padding: 20mm;
+}
+
+ul {
+	list-style: none;
+}
+
+#header h1 {
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+#header ul {
+	margin: 0;
+	padding: 0;
+	clear:left;
+}
+
+#header img {
+	width: 115px;
+	height: 115px;
+	float: right;
+}
+
+.section {
+	clear: left;
+  page-break-inside: avoid;
+}
+	.section h2 {
+		font-size: 1.5em;
+		margin: 1em 0 0 0;
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+	}
+
+	.section ul {
+		margin: 0;
+		padding: 0 0 0 0em;
+	}
+
+a {
+	text-decoration: none;
+}
+	a:hover {
+		text-decoration: underline;
+	}
