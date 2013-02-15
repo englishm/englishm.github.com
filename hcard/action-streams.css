@@ -15,76 +15,76 @@
 .service-icon {
     display: block;
     overflow: hidden;
-    background: transparent url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/other.png) no-repeat;
+    background: transparent url(http://mikeenglish.net/icons/other.png) no-repeat;
     padding-left: 20px;
     min-height: 18px;
     min-width: 16px;
 }
 
-.service-website { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/website.png); }
+.service-website { background-image: url(http://mikeenglish.net/icons/website.png); }
 
-.service-brightkite { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/brightkite.png); }
-.service-cocomment { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/cocomment.png); }
-.service-oneup { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/oneup.png); }
-.service-fortythreethings { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/fortythreethings.png); }
-.service-aim { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/aim.png); }
-.service-bebo { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/bebo.png); }
-.service-catster { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/catster.png); }
-.service-claimid { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/claimid.png); }
-/*.service-deadjournal { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/deadjournal.png); }*/
-.service-delicious { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/delicious.png); }
-.service-digg { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/digg.png); }
-.service-dodgeball { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/dodgeball.png); }
-.service-dogster { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/dogster.png); }
-.service-dopplr { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/dopplr.png); }
-.service-facebook { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/facebook.png); }
-.service-flickr { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/flickr.png); }
-.service-gametap { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/gametap.png); }
-.service-goodreads { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/goodreads.png); }
-.service-googlereader { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/googlereader.png); }
-.service-gtalk { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/gtalk.png); }
-.service-hi5 { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/hi5.png); }
-.service-iconbuffet { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/iconbuffet.png); }
-.service-icq { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/icq.png); }
-.service-iusethis { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/iusethis.png); }
-.service-jabber { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/jabber.png); }
-.service-jaiku { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/jaiku.png); }
-.service-lastfm { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/lastfm.png); }
-.service-linkedin { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/linkedin.png); }
-/*.service-livedoor { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/livedoor.png); }*/
-.service-livejournal { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/livejournal.png); }
-.service-magnolia { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/magnolia.png); }
-.service-mog { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/mog.png); }
-.service-msn { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/msn.png); }
-.service-multiply { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/multiply.png); }
-.service-myspace { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/myspace.png); }
-.service-newsvine { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/newsvine.png); }
-.service-ning { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/ning.png); }
-.service-ohloh { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/ohloh.png); }
-.service-orkut { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/orkut.png); }
-.service-pandora { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/pandora.png); }
-.service-pownce { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/pownce.png); }
-.service-reddit { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/reddit.png); }
-.service-skype { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/skype.png); }
-.service-smugmug { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/smugmug.png); }
-.service-sonicliving { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/sonicliving.png); }
-.service-steam { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/steam.png); }
-.service-stumbleupon { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/stumbleupon.png); }
-.service-tabblo { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/tabblo.png); }
-.service-technorati { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/technorati.png); }
-.service-tribe { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/tribe.png); }
-.service-twitter { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/twitter.png); }
-.service-uncrate { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/uncrate.png); }
-.service-upcoming { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/upcoming.png); }
-.service-virb { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/virb.png); }
-.service-vox { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/vox.png); }
-.service-wordpress { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/wordpress.png); }
-.service-xboxlive { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/xboxlive.png); }
-.service-yahoo { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/yahoo.png); }
-.service-youtube { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/youtube.png); }
-.service-zooomr { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/zooomr.png); }
+.service-brightkite { background-image: url(http://mikeenglish.net/icons/brightkite.png); }
+.service-cocomment { background-image: url(http://mikeenglish.net/icons/cocomment.png); }
+.service-oneup { background-image: url(http://mikeenglish.net/icons/oneup.png); }
+.service-fortythreethings { background-image: url(http://mikeenglish.net/icons/fortythreethings.png); }
+.service-aim { background-image: url(http://mikeenglish.net/icons/aim.png); }
+.service-bebo { background-image: url(http://mikeenglish.net/icons/bebo.png); }
+.service-catster { background-image: url(http://mikeenglish.net/icons/catster.png); }
+.service-claimid { background-image: url(http://mikeenglish.net/icons/claimid.png); }
+/*.service-deadjournal { background-image: url(http://mikeenglish.net/icons/deadjournal.png); }*/
+.service-delicious { background-image: url(http://mikeenglish.net/icons/delicious.png); }
+.service-digg { background-image: url(http://mikeenglish.net/icons/digg.png); }
+.service-dodgeball { background-image: url(http://mikeenglish.net/icons/dodgeball.png); }
+.service-dogster { background-image: url(http://mikeenglish.net/icons/dogster.png); }
+.service-dopplr { background-image: url(http://mikeenglish.net/icons/dopplr.png); }
+.service-facebook { background-image: url(http://mikeenglish.net/icons/facebook.png); }
+.service-flickr { background-image: url(http://mikeenglish.net/icons/flickr.png); }
+.service-gametap { background-image: url(http://mikeenglish.net/icons/gametap.png); }
+.service-goodreads { background-image: url(http://mikeenglish.net/icons/goodreads.png); }
+.service-googlereader { background-image: url(http://mikeenglish.net/icons/googlereader.png); }
+.service-gtalk { background-image: url(http://mikeenglish.net/icons/gtalk.png); }
+.service-hi5 { background-image: url(http://mikeenglish.net/icons/hi5.png); }
+.service-iconbuffet { background-image: url(http://mikeenglish.net/icons/iconbuffet.png); }
+.service-icq { background-image: url(http://mikeenglish.net/icons/icq.png); }
+.service-iusethis { background-image: url(http://mikeenglish.net/icons/iusethis.png); }
+.service-jabber { background-image: url(http://mikeenglish.net/icons/jabber.png); }
+.service-jaiku { background-image: url(http://mikeenglish.net/icons/jaiku.png); }
+.service-lastfm { background-image: url(http://mikeenglish.net/icons/lastfm.png); }
+.service-linkedin { background-image: url(http://mikeenglish.net/icons/linkedin.png); }
+/*.service-livedoor { background-image: url(http://mikeenglish.net/icons/livedoor.png); }*/
+.service-livejournal { background-image: url(http://mikeenglish.net/icons/livejournal.png); }
+.service-magnolia { background-image: url(http://mikeenglish.net/icons/magnolia.png); }
+.service-mog { background-image: url(http://mikeenglish.net/icons/mog.png); }
+.service-msn { background-image: url(http://mikeenglish.net/icons/msn.png); }
+.service-multiply { background-image: url(http://mikeenglish.net/icons/multiply.png); }
+.service-myspace { background-image: url(http://mikeenglish.net/icons/myspace.png); }
+.service-newsvine { background-image: url(http://mikeenglish.net/icons/newsvine.png); }
+.service-ning { background-image: url(http://mikeenglish.net/icons/ning.png); }
+.service-ohloh { background-image: url(http://mikeenglish.net/icons/ohloh.png); }
+.service-orkut { background-image: url(http://mikeenglish.net/icons/orkut.png); }
+.service-pandora { background-image: url(http://mikeenglish.net/icons/pandora.png); }
+.service-pownce { background-image: url(http://mikeenglish.net/icons/pownce.png); }
+.service-reddit { background-image: url(http://mikeenglish.net/icons/reddit.png); }
+.service-skype { background-image: url(http://mikeenglish.net/icons/skype.png); }
+.service-smugmug { background-image: url(http://mikeenglish.net/icons/smugmug.png); }
+.service-sonicliving { background-image: url(http://mikeenglish.net/icons/sonicliving.png); }
+.service-steam { background-image: url(http://mikeenglish.net/icons/steam.png); }
+.service-stumbleupon { background-image: url(http://mikeenglish.net/icons/stumbleupon.png); }
+.service-tabblo { background-image: url(http://mikeenglish.net/icons/tabblo.png); }
+.service-technorati { background-image: url(http://mikeenglish.net/icons/technorati.png); }
+.service-tribe { background-image: url(http://mikeenglish.net/icons/tribe.png); }
+.service-twitter { background-image: url(http://mikeenglish.net/icons/twitter.png); }
+.service-uncrate { background-image: url(http://mikeenglish.net/icons/uncrate.png); }
+.service-upcoming { background-image: url(http://mikeenglish.net/icons/upcoming.png); }
+.service-virb { background-image: url(http://mikeenglish.net/icons/virb.png); }
+.service-vox { background-image: url(http://mikeenglish.net/icons/vox.png); }
+.service-wordpress { background-image: url(http://mikeenglish.net/icons/wordpress.png); }
+.service-xboxlive { background-image: url(http://mikeenglish.net/icons/xboxlive.png); }
+.service-yahoo { background-image: url(http://mikeenglish.net/icons/yahoo.png); }
+.service-youtube { background-image: url(http://mikeenglish.net/icons/youtube.png); }
+.service-zooomr { background-image: url(http://mikeenglish.net/icons/zooomr.png); }
 
-.service-friendfeed { background-image: url(http://mikeenglish.net/blog/wp-content/plugins/wp-diso-actionstream/images/services/friendfeed.png); }
+.service-friendfeed { background-image: url(http://mikeenglish.net/icons/friendfeed.png); }
 
 
 .action-stream-list .hentry abbr.published {display:none;}
